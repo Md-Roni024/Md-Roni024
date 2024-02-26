@@ -9,7 +9,7 @@
 - I'm  pationate about Java, JavaScript and Machine Learning.
 - I'm currently learning React.js
 - Working on a Machine Learning
-- How to reach me: <a href="mailto: osmandurdag@hotmail.com">roni.cse024@gmail.com</a>
+- How to reach me: <a href="mailto: roni.cse024@gmail.com">roni.cse024@gmail.com</a>
 <hr>
 
 <h3>🌐 Connect With Me:</h3>
