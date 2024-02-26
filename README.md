@@ -13,7 +13,7 @@
 <hr>
 
 <h3>🌐 Connect With Me:</h3>
-<h3 style="display:flex;justify-content:center">
+<h3 style="display:flex">
   <code><a href="https://www.linkedin.com/in/roni-hossain-61b003218/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code style="margin-left:5px"><a href="https://codeforces.com/profile/Roni24" title="Codeforces Profile"><img width="22" src="images/code-forces.png"> Codeforces</a></code>
   <code style="margin-left:5px"><a href="https://leetcode.com/Roni_024/" title="Leetcode Profile"><img width="22" src="images/leetcode.png">Leetcode</a></code><br>
