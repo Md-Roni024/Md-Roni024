@@ -6,7 +6,7 @@
 
 # I'm Roni Hossain, 
 #### Completed a Bachelor's degree in Computer Science and Engineering (CSE) from Gopalganj Science and Technology University, Gopalganj-8100, Bangladesh
-- I'm  pationate about TypeScript, JavaScript and LLM.
+- I'm  passionate about TypeScript, JavaScript and LLM.
 - Currently working as a Junior Software Engineer at ImpleVista.
 - How to reach me: <a href="mailto: roni.cse024@gmail.com">roni.cse024@gmail.com</a>
 <hr>
